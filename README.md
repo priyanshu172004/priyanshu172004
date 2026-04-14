@@ -1,8 +1,15 @@
 # Hi there! 👋 I'm Priyanshu Srivastava
 
-💻 Software Developer
-🚀 Backend & AI Enthusiast
-🎓 Pre Final Year CSE Major at Chitkara University
+ - Aspiring Software Developer  
+ - Full Stack Developer  
+ - AI & ML Enthusiast  
+ - Pre-Final Year CSE Student at Chitkara University  
+ - Open Source Contributor & Active Hackathon Participant  
+ - Technical Head @ ACM Student Chapter, Chitkara University  
+
+---
+
+I’m a Computer Science student at Chitkara University with a strong focus on backend development and AI-driven systems. I enjoy building scalable, real-world applications using technologies like Java, Node.js, FastAPI, and Spring Boot. With hands-on experience in full-stack development and data-driven tools, I’m passionate about solving complex problems and continuously improving my technical depth.
 
 ---
 
