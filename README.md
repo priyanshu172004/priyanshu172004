@@ -1,7 +1,8 @@
 # Hi there! 👋 I'm Priyanshu Srivastava
 
-💻 Software Developer | 🚀 Backend & AI Enthusiast
-🎓 CSE Student at Chitkara University
+💻 Software Developer
+🚀 Backend & AI Enthusiast
+🎓 Pre Final Year CSE Major at Chitkara University
 
 ---
 
@@ -44,14 +45,6 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=radical)
 
 ---
 
