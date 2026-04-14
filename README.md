@@ -1,10 +1,10 @@
 # Hi there! 👋 I'm Priyanshu Srivastava
 
  - Aspiring Software Developer  
- - Full Stack Developer  
+ - Full Stack Developer
  - AI & ML Enthusiast  
  - Pre-Final Year CSE Student at Chitkara University  
- - Open Source Contributor & Active Hackathon Participant  
+ - Open Source Contributor, Active Hackathon Participant & Freelancing
  - Technical Head @ ACM Student Chapter, Chitkara University  
 
 ---
