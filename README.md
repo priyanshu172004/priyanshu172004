@@ -12,16 +12,8 @@
 ![](https://streak-stats.demolab.com/?user=priyanshu172004&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=priyanshu172004&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=priyanshu172004&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=priyanshu172004&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=priyanshu172004&icon=1&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
